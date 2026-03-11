@@ -35,3 +35,4 @@ else:
 
 # 4. Quantos dias foram encontrados?
 print(f"\nTotal de dias encontrados: {len(filtro_calor)}")
+# Estudo realizado em Março de 2026.
